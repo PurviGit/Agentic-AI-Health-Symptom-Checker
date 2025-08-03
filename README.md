@@ -98,6 +98,9 @@ Uses real medical documents (PDFs)
 
 Provides care guidance, urgency level, referral advice
 
+<img width="1907" height="900" alt="Screenshot 2025-08-03 155613" src="https://github.com/user-attachments/assets/a05d048e-2d2a-46e7-8ffc-a83637a480dc" />
+
+
 👨‍💻 Built By
 Purvi Porwal 
 
