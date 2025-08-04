@@ -99,9 +99,13 @@ Uses real medical documents (PDFs)
 
 Provides care guidance, urgency level, referral advice
 
-
+🔹 Setting up..
 <img width="1915" height="910" alt="Screenshot 2025-08-03 160117" src="https://github.com/user-attachments/assets/c2ff9d50-82ee-4bf4-a30f-4b44857233c4" />
+
+🔹 Tools used & Testing...
 <img width="1917" height="905" alt="Screenshot 2025-08-03 160556" src="https://github.com/user-attachments/assets/a7748cf0-5b7d-4cce-a821-0cf561f40837" />
+
+Preview...
 <img width="930" height="817" alt="Screenshot 2025-08-03 160255" src="https://github.com/user-attachments/assets/397cafbc-75fb-4b08-98d7-60696f9d3f2e" />
 
 <img width="1907" height="900" alt="Screenshot 2025-08-03 155613" src="https://github.com/user-attachments/assets/d82ebb47-7d9c-4d7d-b3f9-23d37f3b11ca" />
