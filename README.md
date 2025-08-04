@@ -2,6 +2,7 @@
 
 This project is a **AI agent** built on **IBM Watsonx.ai** using **Granite/Mistral foundation models** and **trusted health documents**. It simulates an **educational AI health assistant** that helps users understand symptoms and get general wellness advice without medical diagnosis.
 
+Live Test : https://eu-gb.dataplatform.cloud.ibm.com/ml-runtime/deployments/b219ea65-b214-4877-aa5d-d1f7977576ce/chat?space_id=91f6a5aa-1f56-4046-9120-bb1be064e352&context=wx&flush=true
 ---
 
 ## ✅ Features
