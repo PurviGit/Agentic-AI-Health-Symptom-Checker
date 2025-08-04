@@ -2,9 +2,9 @@
 
 This project is a **AI agent** built on **IBM Watsonx.ai** using **Granite/Mistral foundation models** and **trusted health documents**. It simulates an **educational AI health assistant** that helps users understand symptoms and get general wellness advice without medical diagnosis.
 
-Live Test : https://eu-gb.dataplatform.cloud.ibm.com/ml-runtime/deployments/b219ea65-b214-4877-aa5d-d1f7977576ce/chat?space_id=91f6a5aa-1f56-4046-9120-bb1be064e352&context=wx&flush=true
----
 
+---
+PPT : https://1drv.ms/p/c/322d51855b58f190/Ec9bz98LdJxOkicTfK3U3yABjYyyUgI20PDpF3mD3xKjZw?e=cOn16Y
 ## ✅ Features
 
 - 🧠 Accepts **natural language input** (e.g., “I have a sore throat and fever”)
@@ -106,6 +106,8 @@ Provides care guidance, urgency level, referral advice
 
 <img width="1907" height="900" alt="Screenshot 2025-08-03 155613" src="https://github.com/user-attachments/assets/d82ebb47-7d9c-4d7d-b3f9-23d37f3b11ca" />
 <img width="1908" height="903" alt="Screenshot 2025-08-03 164704" src="https://github.com/user-attachments/assets/d19efe22-65e6-479c-8670-4b9b4f43003d" />
+
+Live Test : https://eu-gb.dataplatform.cloud.ibm.com/ml-runtime/deployments/b219ea65-b214-4877-aa5d-d1f7977576ce/chat?space_id=91f6a5aa-1f56-4046-9120-bb1be064e352&context=wx&flush=true
 
 👨‍💻 Built By
 
